@@ -1,0 +1,3 @@
+# GroupCYOA
+
+typical readme file
