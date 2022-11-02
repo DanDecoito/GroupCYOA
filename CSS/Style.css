@@ -8,4 +8,5 @@ h1{
 .picText
 {
     font-weight: bold;
+    text-shadow: 2px 2px red;
 }
