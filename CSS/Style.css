@@ -1,6 +1,6 @@
 .center{
-display: flex;
-justify-content: center;
+    width: 100%;
+    height: auto;
 }
 h1{
     text-align: center;
@@ -9,4 +9,12 @@ h1{
 {
     font-weight: bold;
     text-shadow: 2px 2px red;
+}
+.card-img-top{
+    position: absolute;
+    top: 30px;
+    left: 50%;
+    margin-left: -30px;
+    width: 60px !important;
+    height: 60px;
 }
