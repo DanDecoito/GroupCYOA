@@ -25,6 +25,7 @@ h1{
     text-align: center;
 
 
+
 }
 .FontCase2{
 
@@ -39,3 +40,11 @@ h1{
     color: rgb(139, 91, 31);
 
 }
+.IndieFont{
+    font-family: 'Indie Flower', cursive;
+}
+
+.body {
+    background-image: url("../assets/Dectectives_Office.jpg");
+    
+   }
