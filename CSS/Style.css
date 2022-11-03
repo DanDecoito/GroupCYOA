@@ -48,3 +48,8 @@ h1{
     background-image: url("../assets/Dectectives_Office.jpg");
     
    }
+   .danButton
+   {
+    background-color: rgb(132, 13, 37);
+    float: right;
+   }
