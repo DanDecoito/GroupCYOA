@@ -18,16 +18,19 @@ h1{
     width: 60px !important;
     height: 60px;
 }
-.FontCase1{
+.titlepage1{
     font-family:'Times New Roman', Times, serif;
     font-weight: bold;
-    font-size: large;
+    font-size: xx-large;
     text-align: center;
-
+    color:white;
+ background-color: gray;
+ 
 
 
 }
 .FontCase2{
+
 
 
 
@@ -48,4 +51,3 @@ h1{
     background-image: url("../assets/Dectectives_Office.jpg");
     
    }
-   
